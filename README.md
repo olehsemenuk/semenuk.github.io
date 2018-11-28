@@ -1,1 +1,1 @@
-# semenuk.gitnub.io
+# semenuk.github.io
